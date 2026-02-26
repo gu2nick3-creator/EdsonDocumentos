@@ -1,3 +1,0 @@
-git add .gitignore uploads/.gitkeep
-git commit -m "keep uploads folder, ignore uploaded files"
-git push
